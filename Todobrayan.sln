@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todobrayan.Common", "Todobrayan.Common\Todobrayan.Common.csproj", "{DE8460DD-7290-4AFF-8674-3CDB58422CC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todobrayan.Common", "Todobrayan.Common\Todobrayan.Common.csproj", "{DE8460DD-7290-4AFF-8674-3CDB58422CC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todobrayan.Functions", "Todobrayan.Functions\Todobrayan.Functions.csproj", "{A84E646A-9096-4D8E-ACEB-419C460FA7DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todobrayan.Functions", "Todobrayan.Functions\Todobrayan.Functions.csproj", "{A84E646A-9096-4D8E-ACEB-419C460FA7DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todobrayan.Test", "Todobrayan.Test\Todobrayan.Test.csproj", "{78E487A9-4B5A-4C5B-9E14-B0CD021AD8F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todobrayan.Test", "Todobrayan.Test\Todobrayan.Test.csproj", "{78E487A9-4B5A-4C5B-9E14-B0CD021AD8F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
